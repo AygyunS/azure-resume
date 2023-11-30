@@ -647,6 +647,19 @@ input[type="checkbox"] { display: inline; }
 .row .eleven      { width: 91.66667%; }
 .row .twelve      { width: 100%; }
 
+.certification-images { 
+   width: 22%;
+   max-width: 22%;
+   height: auto;
+   float: left;
+   padding-right: 3%;
+}
+
+.certification-title {
+   padding-top: 5%;
+}
+
+
 /* Offsets */
 .row .offset-1    { margin-left: 8.33333%; }
 .row .offset-2    { margin-left: 16.66667%; }
